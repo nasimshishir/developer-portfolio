@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.flexible {
+    display: flex;
+}
+
+.sec-main {
+    padding: 5% 0;
+    background-image: url(images/sec-maib-bg.png);
+    background-repeat: no-repeat;
+    background-size: 35% auto;
+    width: 100%;
+}
+
+
+.side-c {
+    padding: 20px;
+    width: 15%;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+}
+
+.side-c h6 {
+    margin: 0;
+    color: white;
+    font-size: 13px;
+}
+
+.side-c a {
+    margin: 5px 0 30px 0;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+
+.side-1 {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+.side-2 {
+    width: 30%;
+    padding: 0px 100px 0 40px;
+    margin-top: 50px;
+}
+
+.side-1 img {
+    width: 360px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 5px 15px 40px rgba(0, 0, 0, 0.5);
+}
+
+.side-2 h1 {
+    margin-bottom: 10px;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.side-2 h3 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.side-2 h1 span {
+    color: #4A22FF;
+    font-weight: 900;
+}
+
+.side-2 p {
+    margin-top: 0;
+    margin-bottom: 50px;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.hire-btn {
+    padding: 10px 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+    background-color: #4A22FF;
+    border-radius: 3px;
+}
