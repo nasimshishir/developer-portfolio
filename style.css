@@ -92,7 +92,9 @@ body {
     padding: 10px 40px;
     text-decoration: none;
     text-transform: uppercase;
-    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 600;
     color: white;
     background-color: #4A22FF;
     border-radius: 3px;
